@@ -1,5 +1,19 @@
 # QQEmotionParser - 轻量级 QQ 空间动态表情解析库
 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white)![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+
+![表情解析](https://img.shields.io/badge/表情解析-FF6B6B?style=flat-square)![QQ表情](https://img.shields.io/badge/QQ表情-1E6FFF?style=flat-square)![前端工具库](https://img.shields.io/badge/前端工具库-00C853?style=flat-square)![内容解析](https://img.shields.io/badge/内容解析-FF9800?style=flat-square)
+
+![XSS防护](https://img.shields.io/badge/XSS防护-启用-success?style=flat-square) ![代码质量](https://img.shields.io/badge/代码质量-A级-brightgreen?style=flat-square) ![无依赖](https://img.shields.io/badge/无依赖-零运行时-critical?style=flat-square) ![轻量级](https://img.shields.io/badge/轻量级-2KB-blue?style=flat-square) ![TypeScript支持](https://img.shields.io/badge/TypeScript支持-类型定义-blue?style=flat-square)
+
+
 一个轻量级的JavaScript库，用于解析QQ动态导出的 `[em]e数字[/em]` 格式表情代码，并将其转换为可显示的图片表情。
 
 ![demo](demo.png)
@@ -269,5 +283,5 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 - 提供多种使用方式
 - 完善的API文档
 
----
+
 ⭐ 如果这个项目对你有帮助，请给个Star支持一下！
